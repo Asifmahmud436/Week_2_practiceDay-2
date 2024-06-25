@@ -1,0 +1,52 @@
+input{
+    padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 45px;
+    margin-left: 250px;
+    margin-right: 10px;
+    
+    /* margin: auto; */
+}
+
+button{
+    padding: 10px;
+    color: whitesmoke;
+    background-color: red;
+}
+
+.upper-part{
+    margin-top: 40px;
+    display: flex;
+    /* justify-content: space-around; */
+}
+.meal-info{
+    border: 2px solid gray;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+img{
+    width: 150px;
+}
+#all-meals{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.detail-info{
+    border: 2px solid gray;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.details-part{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 250px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
